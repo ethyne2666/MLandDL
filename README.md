@@ -1,5 +1,5 @@
-## Learning RAG  reterival augmented generation
+## Learning RAG  retrieval augmented generation
 
 # ML  &  DL  
 
-## Artifical intelligence
+## Artificial intelligence
